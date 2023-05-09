@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(238, 210, 174);
+}
+h1{
+    background-color: rgb(241, 206, 109); font-style: italic;
+}
+p :hover{
+    color: blue; font-size: 21px;
+}
+h2 :hover{
+    color: blue;
+}
